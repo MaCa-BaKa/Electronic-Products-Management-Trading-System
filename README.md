@@ -1,5 +1,7 @@
 # 23-电子产品管理交易系统
 
+[文档地址](http://wechat.zjrcsy.cn/)
+
 技术： 基于 B/S 架构 SpringBoot+MySQL+Vue  
 环境： Idea mysql maven jdk1.8
 
@@ -28,6 +30,4 @@
 ![bdef664280989afb8b161078e0edc0d](https://yunzhuceshi.oss-cn-beijing.aliyuncs.com/typoraImg/bdef664280989afb8b161078e0edc0d.png)
 
 
-
-
-#### xv:  MaKaBaca0
+[文档地址](http://wechat.zjrcsy.cn/)
